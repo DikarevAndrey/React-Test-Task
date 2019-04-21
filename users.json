@@ -1,0 +1,1 @@
+[{"id":1,"login":"test1","name":"test1","email":"test1@mail.com","password":"test1","permissions":3,"session":null},{"id":2,"login":"test2","name":"test2","email":"test2@mail.com","password":"test2","permissions":5,"session":null},{"id":3,"login":"admin","name":"admin","email":"admin@mail.com","password":"admin","permissions":15,"session":null}]
